@@ -1,6 +1,6 @@
 
 #EXTINF:-1 tvg-id="" tvg-name="" group-title="Filmek Premier 2025",Igy vagy tökéletes
-ztnOVhHFYCSpJdhX4T6kdyipKpxO/index_2580x1080.m3u8?token=12fsZ2wpqmDsFH9nh8xUceKKyVvJdkXV4h-1763267664-89.46.10.147-789152443bb43c9461fcba071a22b9dccb36a5ad6e43961886e027226c1d066b
+https://s3-hls3-cdn48.strmupcdn.cc/hls/WCztnOVhHFYCSpJdhX4T6kdyipKpxO/index_2580x1080.m3u8?token=1DgwPCJ2Tct51MRieFLg1mn2xMXEPacx9x-1763271016-89.46.10.147-82ff8b47c84e2607c1b2a4cb42881d97c1cb41ee3fc9a699baff6e60d5064a9f
 #EXTINF:-1 tvg-id="" tvg-name="" group-title="Filmek Sci Fi",
 #EXTINF:-1 tvg-id="" tvg-name="" group-title="Filmek Sci Fi",
 
@@ -20,8 +20,7 @@ ztnOVhHFYCSpJdhX4T6kdyipKpxO/index_2580x1080.m3u8?token=12fsZ2wpqmDsFH9nh8xUceKK
 https://hls2-cdn39.strmupcdn.cc/hls/yfkaXmh6D3lQQfwF2bzXHxehdoojG1/index_1920x1080.m3u8
 
 #EXTINF:-1 tvg-id="" tvg-name="" group-title="Filmek Akció",
-#EXTINF:-1 tvg-id="" tvg-name="" group-title="Filmek Akció",Láncreakció 1996
-https://hls1-cdn34.strmupcdn.cc/hls/T75rTY7vugxFFocm6rjx2e3cYLoDcj/index_1336x720.m3u8?token=e177ab6de3a2b488897a9ce7a25c8533-1763231821-89.46.10.22-596e81d60f7c747931326fd648a9a500a515257371cf380b83d35aaea4e09a9c
+#EXTINF:-1 tvg-id="" tvg-name="" group-title="Filmek Akció",
 #EXTINF:-1 tvg-id="" tvg-name="" group-title="Filmek Akció",Feláldozhatóak 3
 https://hls2-cdn30.strmupcdn.cc/hls/LuZkJISY1OWWOCduJsuDfvtQR73kjV/index_2592x1080.m3u8
 
